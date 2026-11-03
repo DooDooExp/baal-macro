@@ -18,7 +18,7 @@ Edits preview immediately. Save appearance keeps them without restarting farming
 Window transparency remains in Tracking. Apply & save keeps farming preferences.
 
 CONFIGURATION
-The bundle starts with the current farming settings, abilities and recorded routes.
+The bundle starts with the current farming settings for suna, abilities and recorded routes.
 Save/load general config and ability config separately from Overview / Abilities.
 Internal JSON files remain writable in _internal, including appearance-settings.json.
 Back up your configs and routes before replacing this folder with a newer release.
@@ -28,11 +28,4 @@ This release includes the project's currently calibrated Roblox client version.
 Update offsets fetches matching offsets; a different client build may also require
 new Shift Lock, portal or server-menu calibration. An EXE does not remove those checks.
 
-SHARING
-Share BaalTracker-Windows-x64.zip, not just the EXE: _internal is required.
-In OneDrive: upload/select the ZIP > Share > link settings > Anyone with the link
-(if available) > Can view. Leave downloads allowed, then Copy link.
-The local file path is not an internet download link. No public upload is automatic.
 
-The package excludes raw captures, inspection logs, screenshots and developer tools.
-SHA256.txt beside the ZIP records the archive's checksum.
