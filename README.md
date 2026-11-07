@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/34339500/README.txt)
+If you have question join my discord https://discord.com/invite/hTf43ZVN2r
 BAAL TRACKER - WINDOWS x64 PORTABLE EDITION
 
 1. Extract the whole ZIP into a folder you can write to, such as Documents.
